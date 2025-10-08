@@ -279,15 +279,13 @@ of this software and associated documentation files...
 
 **Raahul S G** (Student ID: 23BAI044)
 - 🎓 **Institution**: SKASC - BSc AI & ML Final Year
-- 📧 **Email**: raahulsg23bai044@skasc.ac.in
+- 📧 **Email**: raahulsg008@gmail.com
 - 🐙 **GitHub**: [@raahul3](https://github.com/raahul3)
-- 💼 **LinkedIn**: [Raahul S G](https://linkedin.com/in/raahul-sg)
 
 ### Academic Project Details
 - **Course**: BSc Artificial Intelligence & Machine Learning
 - **Year**: Final Year (2024-2025)
 - **Project Type**: Capstone/Major Project
-- **Supervisor**: [Supervisor Name]
 - **Institution**: Sri Krishna Arts and Science College
 
 ---
